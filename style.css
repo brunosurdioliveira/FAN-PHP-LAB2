@@ -1,0 +1,23 @@
+#logo {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    margin: 50px;
+    color: rgb(255, 255, 255);
+  }
+
+  .tips {
+    font-family: 'Questrial', sans-serif;
+    color: white;
+  }
+
+  body {
+    width: 100%;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/736x/48/6f/e7/486fe74d79101ad6da45c5771b0d3f8a.jpg");
+  }
+
+  .form-row>.col,
+  .form-row>[class*=col-] {
+    padding-right: 5px;
+    padding-left: 40px;
+  }
